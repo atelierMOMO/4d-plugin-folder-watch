@@ -400,36 +400,14 @@
 			7L6SeaxPxVijji1ZYr2rdU6VEf68HirTcVv7aODv+yA=
 			</data>
 		</dict>
-		<key>Windows/Folder Watch.4DX</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gNOoJ3tSrbfMC/cS9iRthak8cHU=
-			</data>
-			<key>hash2</key>
-			<data>
-			CoENVUkDjx0bdI/RRZMrwZwVez27GFO7qxF5PNxGQl4=
-			</data>
-		</dict>
-		<key>Windows64/Folder Watch.4DX</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yQmFgHGWHtNEIebFbuzmuo5cOlE=
-			</data>
-			<key>hash2</key>
-			<data>
-			2OMvj+Zku8qWQlOfK0EuiC/s9iqhjz7ci+b+MB/HT08=
-			</data>
-		</dict>
 		<key>manifest.json</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			43crI+a+l+11GSIsaMG5NpgevXU=
+			ATsJYXKax7vt/IpttVm4YrsXY9c=
 			</data>
 			<key>requirement</key>
-			<string>identifier manifest and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Y69CWUC25B</string>
+			<string>identifier manifest and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: shirokumakun@me.com (922KU5UM3K)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 	</dict>
 	<key>rules</key>
